@@ -1,0 +1,265 @@
+{
+  "intents": [
+    {
+      "id": "greeting",
+      "patterns": [
+        null
+      ],
+      "keywords": [
+        {
+          "w": "hi",
+          "s": 3
+        },
+        {
+          "w": "hello",
+          "s": 3
+        },
+        {
+          "w": "hey",
+          "s": 2
+        },
+        {
+          "w": "greetings",
+          "s": 3
+        },
+        {
+          "w": "salam",
+          "s": 4
+        },
+        {
+          "w": "assalam",
+          "s": 5
+        },
+        {
+          "w": "morning",
+          "s": 2
+        },
+        {
+          "w": "afternoon",
+          "s": 2
+        },
+        {
+          "w": "evening",
+          "s": 2
+        },
+        {
+          "w": "hiya",
+          "s": 3
+        }
+      ],
+      "phrases": [
+        {
+          "p": "good morning",
+          "s": 5
+        },
+        {
+          "p": "good afternoon",
+          "s": 5
+        },
+        {
+          "p": "good evening",
+          "s": 5
+        },
+        {
+          "p": "good day",
+          "s": 5
+        },
+        {
+          "p": "how are you",
+          "s": 4
+        },
+        {
+          "p": "nice to meet",
+          "s": 4
+        },
+        {
+          "p": "whats up",
+          "s": 3
+        }
+      ],
+      "answers": [
+        "Good to see you! 👋 I am EcomXprt's AI consultant.\n\nI can answer anything about our Amazon services, team, results, pricing, and how to get started.\n\nWhat would you like to know?",
+        "Welcome to EcomXprt — Experts With Vision! 😊\n\n15+ years. 250+ brands scaled. Let me answer your questions.\n\nWhat brings you here today — Amazon PPC, listing optimization, or something else?"
+      ],
+      "suggestions": [
+        "What services do you offer?",
+        "Free account audit",
+        "Pricing plans",
+        "See results"
+      ]
+    },
+    {
+      "id": "farewell",
+      "patterns": [
+        null
+      ],
+      "keywords": [
+        {
+          "w": "bye",
+          "s": 4
+        },
+        {
+          "w": "goodbye",
+          "s": 4
+        },
+        {
+          "w": "later",
+          "s": 2
+        },
+        {
+          "w": "farewell",
+          "s": 4
+        },
+        {
+          "w": "thanks",
+          "s": 2
+        },
+        {
+          "w": "thankyou",
+          "s": 3
+        },
+        {
+          "w": "appreciate",
+          "s": 2
+        },
+        {
+          "w": "helpful",
+          "s": 2
+        },
+        {
+          "w": "great",
+          "s": 1
+        }
+      ],
+      "phrases": [
+        {
+          "p": "see you",
+          "s": 4
+        },
+        {
+          "p": "take care",
+          "s": 4
+        },
+        {
+          "p": "good bye",
+          "s": 5
+        },
+        {
+          "p": "thank you",
+          "s": 4
+        },
+        {
+          "p": "many thanks",
+          "s": 4
+        },
+        {
+          "p": "that helps",
+          "s": 3
+        },
+        {
+          "p": "very helpful",
+          "s": 4
+        },
+        {
+          "p": "thats all",
+          "s": 3
+        }
+      ],
+      "answers": [
+        "Thanks for chatting! 😊\n\nWhenever you are ready to grow your Amazon brand:\n📧 admin@ecomxprt.com\n📞 +92 323 577 7900\n💬 wa.me/923235777900\n\nWe offer a free audit — no obligation, pure insight. Take care!",
+        "Great talking with you! 👋\n\nRemember — our free account audit finds exactly where you are losing revenue.\n\n📧 admin@ecomxprt.com\n💬 WhatsApp: wa.me/923235777900\n\nWishing you growing sales!"
+      ],
+      "suggestions": [
+        "Book a free audit",
+        "Contact the team"
+      ]
+    },
+    {
+      "id": "capabilities",
+      "patterns": [],
+      "keywords": [
+        {
+          "w": "capable",
+          "s": 3
+        },
+        {
+          "w": "abilities",
+          "s": 3
+        },
+        {
+          "w": "help",
+          "s": 2
+        },
+        {
+          "w": "ask",
+          "s": 2
+        },
+        {
+          "w": "know",
+          "s": 2
+        },
+        {
+          "w": "questions",
+          "s": 2
+        }
+      ],
+      "phrases": [
+        {
+          "p": "what can you do",
+          "s": 6
+        },
+        {
+          "p": "what do you know",
+          "s": 5
+        },
+        {
+          "p": "how can you help",
+          "s": 6
+        },
+        {
+          "p": "what are you",
+          "s": 4
+        },
+        {
+          "p": "who are you",
+          "s": 4
+        },
+        {
+          "p": "what questions",
+          "s": 4
+        },
+        {
+          "p": "can i ask",
+          "s": 3
+        },
+        {
+          "p": "what should i ask",
+          "s": 4
+        }
+      ],
+      "answers": [
+        "I am EcomXprt's AI consultant — I know the entire agency inside out. 🤖\n\nAsk me about:\n📈 Amazon PPC, ACoS, ROAS\n📝 Listing optimization & keyword ranking\n🎨 A+ Content, photography, packaging\n📦 Product sourcing & FBA\n🏪 Walmart, eBay, TikTok Shop, Shopify\n💰 Pricing tiers & what is included\n👥 Our team expertise\n📊 Case studies & results\n✅ Free audit & how to get started\n\nWhat would you like to explore?"
+      ],
+      "suggestions": [
+        "Amazon PPC",
+        "Listing optimization",
+        "Our team",
+        "Pricing"
+      ]
+    }
+  ],
+  "fallback": {
+    "answers": [
+      "Let me connect you with the right person. 😊\n\nFor the most accurate answer:\n📞 +92 323 577 7900\n💬 WhatsApp: wa.me/923235777900\n📧 admin@ecomxprt.com\n\nOr try asking about:\n• Amazon PPC & advertising\n• Listing optimization\n• Pricing & services\n• Free account audit",
+      "Great question — I want to make sure you get the right answer. 🎯\n\nOur specialists can help directly:\n📧 admin@ecomxprt.com\n💬 WhatsApp: wa.me/923235777900\n\nOr tell me more about what you are trying to achieve on Amazon.",
+      "That is a great question for our specialists! 💼\n\n📞 Direct: +92 323 577 7900\n📧 admin@ecomxprt.com\n\nOr start with a free account audit — the fastest way to get specific recommendations for your business."
+    ],
+    "suggestions": [
+      "Amazon PPC",
+      "Listing optimization",
+      "Pricing",
+      "Free audit",
+      "Contact team"
+    ]
+  }
+}

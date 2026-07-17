@@ -1,0 +1,57 @@
+{
+  "ceo": {
+    "name": "Saad Aqeel",
+    "role": "CEO & Founder",
+    "bio": "👤 Saad Aqeel — CEO & Founder of EcomXprt.\n\n15+ years scaling eCommerce brands across Amazon, Walmart, and global marketplaces.\n\nSaad founded EcomXprt with one mission: give every brand access to enterprise-level Amazon expertise.\n\nUnder his leadership:\n• 250+ brands scaled\n• Millions in annual ad spend managed\n• Clients across US, UK, EU, UAE, CA, AUS\n\n📞 +92 323 577 7900\n📧 admin@ecomxprt.com"
+  },
+  "members": [
+    {
+      "name": "Ammar Jamil",
+      "role": "Co-Founder",
+      "initials": "AJ",
+      "shortBio": "Co-architect of EcomXprt growth methodology. 12+ years in Amazon operations across US and EU.",
+      "extendedBio": "👤 Ammar Jamil — Co-Founder of EcomXprt.\n\n12+ years in Amazon operations across US and EU markets.\n\nAmmar co-architected EcomXprt's proprietary growth methodology — the systematic approach behind 250+ scaled brands.\n\nHe oversees client account strategy and our operations team.",
+      "photo": "assets/img/team/ammar.jpeg"
+    },
+    {
+      "name": "Tayyab Sethi",
+      "role": "Sales Manager",
+      "initials": "TS",
+      "shortBio": "Expert in client onboarding and revenue consulting. Overseen $5M+ in client revenue.",
+      "extendedBio": null,
+      "photo": "assets/img/team/tayyab.jpeg"
+    },
+    {
+      "name": "Hammas Khalid",
+      "role": "Graphics Designer",
+      "initials": "HK",
+      "shortBio": "Creative lead for A+ Content, Brand Stores, packaging. 200+ Amazon listing designs.",
+      "extendedBio": "🎨 Hammas Khalid — Graphics Designer at EcomXprt.\n\n200+ Amazon listing designs and counting.\n\nHammas leads all creative work:\n• A+ Content & EBC modules\n• Brand Store design\n• Package & label design\n• Infographic overlays\n• Photography art direction\n\nHis designs have driven +118% average CVR improvement for our clients.",
+      "photo": "assets/img/team/hammas.jpeg"
+    },
+    {
+      "name": "Asad Naeem",
+      "role": "eCommerce Specialist",
+      "initials": "AN",
+      "shortBio": "Deep expertise in Seller Central operations, listing compliance, catalogue management, FBA.",
+      "extendedBio": null,
+      "photo": "assets/img/team/asad.jpeg"
+    },
+    {
+      "name": "Raja Souban",
+      "role": "Walmart / eBay / TikTok",
+      "initials": "RS",
+      "shortBio": "Multi-marketplace specialist. Manages Walmart WFS, eBay Powerseller, and TikTok Shop.",
+      "extendedBio": "👤 Raja Souban — Multi-Marketplace Specialist.\n\nRaja manages:\n• Walmart (WFS, listings, Walmart Connect ads)\n• eBay (Powerseller accounts, Cassini SEO)\n• TikTok Shop (setup, ads, creator affiliates)\n\nIf you want to expand beyond Amazon, Raja is your point of contact.\n\n📞 +92 323 577 7900 | admin@ecomxprt.com",
+      "photo": "assets/img/team/raja.jpeg"
+    },
+    {
+      "name": "Moin",
+      "role": "Amazon PPC Specialist",
+      "initials": "MN",
+      "shortBio": "PPC and ranking expert. Manages advanced Sponsored Ads campaigns with consistently high ROAS.",
+      "extendedBio": "👤 Moin — Amazon PPC Specialist.\n\nMoin manages advanced Sponsored Ads campaigns across our client portfolio.\n\nSpecialty:\n• Campaign architecture & restructuring\n• Bid optimization & dayparting\n• Search term mining\n• ROAS maximization\n\nResults: 7.2× ROAS, ACoS reduced from 28% to 11%.",
+      "photo": "assets/img/team/moin.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,2207 @@
+[
+  {
+    "id": "acos",
+    "topic": "advertising",
+    "keywords": [
+      {
+        "w": "acos",
+        "s": 6
+      },
+      {
+        "w": "advertising",
+        "s": 2
+      },
+      {
+        "w": "cost",
+        "s": 2
+      },
+      {
+        "w": "ratio",
+        "s": 2
+      },
+      {
+        "w": "percentage",
+        "s": 1
+      },
+      {
+        "w": "high",
+        "s": 1
+      },
+      {
+        "w": "reduce",
+        "s": 2
+      },
+      {
+        "w": "lower",
+        "s": 2
+      }
+    ],
+    "phrases": [
+      {
+        "p": "advertising cost of sale",
+        "s": 6
+      },
+      {
+        "p": "what is acos",
+        "s": 6
+      },
+      {
+        "p": "high acos",
+        "s": 5
+      },
+      {
+        "p": "reduce acos",
+        "s": 5
+      },
+      {
+        "p": "lower acos",
+        "s": 5
+      },
+      {
+        "p": "acos too high",
+        "s": 5
+      },
+      {
+        "p": "improve acos",
+        "s": 5
+      },
+      {
+        "p": "acos percentage",
+        "s": 4
+      }
+    ],
+    "entityKeywords": [
+      "acos"
+    ],
+    "answers": [
+      "ACoS = Ad Spend ÷ Ad Revenue × 100 📊\n\nBenchmarks:\n• Launch phase: 25–40% (buying rank — acceptable)\n• Growth phase: 15–25% (good)\n• Mature/profitable: 8–14% (excellent)\n\nYour break-even ACoS = your gross margin %.\nIf you make 30% margin, ACoS above 30% means you are losing money on ads.\n\n✅ EcomXprt average: we reduce client ACoS from 28% → 11%.\n\nWant help calculating your break-even ACoS?",
+      "High ACoS is the most common issue we fix. 📉\n\nRoot causes we find:\n1. Broad match without negative keywords\n2. Auto campaigns never reviewed\n3. Bids too high on low-converting keywords\n4. No dayparting or placement adjustments\n\nOur fix: structured campaign architecture + weekly optimization.\nResult: 28% → 11% ACoS on average, in 60–90 days.\n\nBook a free PPC audit to see exactly where yours is leaking."
+    ],
+    "suggestions": [
+      "What is ROAS?",
+      "How do you reduce ACoS?",
+      "Free PPC audit"
+    ]
+  },
+  {
+    "id": "roas",
+    "topic": "advertising",
+    "keywords": [
+      {
+        "w": "roas",
+        "s": 6
+      },
+      {
+        "w": "return",
+        "s": 2
+      },
+      {
+        "w": "revenue",
+        "s": 2
+      },
+      {
+        "w": "profit",
+        "s": 2
+      },
+      {
+        "w": "profitable",
+        "s": 2
+      },
+      {
+        "w": "roi",
+        "s": 3
+      },
+      {
+        "w": "returns",
+        "s": 2
+      }
+    ],
+    "phrases": [
+      {
+        "p": "return on ad spend",
+        "s": 6
+      },
+      {
+        "p": "what is roas",
+        "s": 6
+      },
+      {
+        "p": "good roas",
+        "s": 5
+      },
+      {
+        "p": "improve roas",
+        "s": 5
+      },
+      {
+        "p": "target roas",
+        "s": 5
+      },
+      {
+        "p": "roas benchmark",
+        "s": 5
+      },
+      {
+        "p": "7x roas",
+        "s": 4
+      },
+      {
+        "p": "8x roas",
+        "s": 4
+      }
+    ],
+    "entityKeywords": [
+      "roas",
+      "roi"
+    ],
+    "answers": [
+      "ROAS = Ad Revenue ÷ Ad Spend 📊\n\nExample: 7× ROAS = every $1 in ads returns $7 in revenue.\n\nBenchmarks:\n• Under 3× — likely unprofitable (check margins)\n• 3–5× — acceptable\n• 5–8× — strong\n• 8×+ — exceptional\n\n✅ EcomXprt results:\n• Portfolio average: 7.2× ROAS\n• Best client: 9.4× ROAS\n• Minimum we target: 4× before scaling spend\n\nBreak-even ROAS = 1 ÷ Gross Margin %. Want to calculate yours?"
+    ],
+    "suggestions": [
+      "What is ACoS?",
+      "Amazon PPC management",
+      "Free audit"
+    ]
+  },
+  {
+    "id": "account",
+    "topic": "operations",
+    "keywords": [
+      {
+        "w": "account",
+        "s": 4
+      },
+      {
+        "w": "management",
+        "s": 3
+      },
+      {
+        "w": "seller",
+        "s": 3
+      },
+      {
+        "w": "central",
+        "s": 3
+      },
+      {
+        "w": "manage",
+        "s": 3
+      },
+      {
+        "w": "operations",
+        "s": 3
+      },
+      {
+        "w": "catalogue",
+        "s": 3
+      },
+      {
+        "w": "catalog",
+        "s": 3
+      },
+      {
+        "w": "variation",
+        "s": 3
+      },
+      {
+        "w": "health",
+        "s": 3
+      },
+      {
+        "w": "compliance",
+        "s": 3
+      },
+      {
+        "w": "case",
+        "s": 2
+      }
+    ],
+    "phrases": [
+      {
+        "p": "account management",
+        "s": 6
+      },
+      {
+        "p": "seller central",
+        "s": 5
+      },
+      {
+        "p": "manage my account",
+        "s": 6
+      },
+      {
+        "p": "amazon account",
+        "s": 5
+      },
+      {
+        "p": "full management",
+        "s": 5
+      },
+      {
+        "p": "account health",
+        "s": 5
+      },
+      {
+        "p": "policy compliance",
+        "s": 4
+      },
+      {
+        "p": "full service",
+        "s": 4
+      }
+    ],
+    "entityKeywords": [
+      "account",
+      "seller central"
+    ],
+    "answers": [
+      "⚙️ Amazon Account Management — full Seller Central operations, handled by us.\n\nCovered:\n✓ Catalogue management & variation structuring\n✓ FBA shipment planning & IPI score maintenance\n✓ Account health monitoring (violations, suppressed listings)\n✓ Case management & appeals with Amazon\n✓ Inventory reorder alerts & FBA fee auditing\n✓ Weekly performance reporting\n✓ Seasonal strategy & promotions\n\n250+ accounts managed across US, UK, EU, UAE, CA since 2009.\n\nYou focus on your business — we run your Amazon."
+    ],
+    "suggestions": [
+      "FBA management",
+      "Account health",
+      "Pricing",
+      "Free audit"
+    ]
+  },
+  {
+    "id": "fba",
+    "topic": "operations",
+    "keywords": [
+      {
+        "w": "fba",
+        "s": 5
+      },
+      {
+        "w": "fulfillment",
+        "s": 4
+      },
+      {
+        "w": "fulfilment",
+        "s": 4
+      },
+      {
+        "w": "ipi",
+        "s": 4
+      },
+      {
+        "w": "inventory",
+        "s": 3
+      },
+      {
+        "w": "storage",
+        "s": 3
+      },
+      {
+        "w": "restock",
+        "s": 2
+      },
+      {
+        "w": "replenish",
+        "s": 2
+      },
+      {
+        "w": "shipment",
+        "s": 3
+      },
+      {
+        "w": "stranded",
+        "s": 3
+      },
+      {
+        "w": "suppressed",
+        "s": 3
+      },
+      {
+        "w": "removal",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "fulfilled by amazon",
+        "s": 6
+      },
+      {
+        "p": "fba shipment",
+        "s": 5
+      },
+      {
+        "p": "fba management",
+        "s": 5
+      },
+      {
+        "p": "inventory management",
+        "s": 5
+      },
+      {
+        "p": "ipi score",
+        "s": 5
+      },
+      {
+        "p": "stranded inventory",
+        "s": 5
+      },
+      {
+        "p": "fba fees",
+        "s": 4
+      },
+      {
+        "p": "removal order",
+        "s": 4
+      }
+    ],
+    "entityKeywords": [
+      "fba",
+      "fulfillment",
+      "ipi"
+    ],
+    "answers": [
+      "📦 FBA Management — included in our Account Management service.\n\nWe handle:\n✓ Shipment plan creation & routing\n✓ IPI (Inventory Performance Index) maintenance above 600\n✓ Stranded & suppressed listing fixes\n✓ FBA fee auditing & overpayment claims\n✓ Removal & disposal order management\n✓ Restock level monitoring & alerts\n✓ Long-term storage fee avoidance\n\nIPI below 400 = Amazon restricts your storage capacity. We keep clients above 600."
+    ],
+    "suggestions": [
+      "Account management",
+      "Inventory reimbursements",
+      "Pricing",
+      "Free audit"
+    ]
+  },
+  {
+    "id": "sourcing",
+    "topic": "sourcing",
+    "keywords": [
+      {
+        "w": "sourcing",
+        "s": 5
+      },
+      {
+        "w": "source",
+        "s": 4
+      },
+      {
+        "w": "supplier",
+        "s": 4
+      },
+      {
+        "w": "manufacturer",
+        "s": 4
+      },
+      {
+        "w": "china",
+        "s": 3
+      },
+      {
+        "w": "alibaba",
+        "s": 3
+      },
+      {
+        "w": "factory",
+        "s": 3
+      },
+      {
+        "w": "production",
+        "s": 3
+      },
+      {
+        "w": "moq",
+        "s": 3
+      },
+      {
+        "w": "sample",
+        "s": 3
+      },
+      {
+        "w": "quality",
+        "s": 3
+      },
+      {
+        "w": "inspection",
+        "s": 3
+      },
+      {
+        "w": "import",
+        "s": 3
+      },
+      {
+        "w": "freight",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "product sourcing",
+        "s": 6
+      },
+      {
+        "p": "find a supplier",
+        "s": 5
+      },
+      {
+        "p": "china suppliers",
+        "s": 5
+      },
+      {
+        "p": "private label",
+        "s": 4
+      },
+      {
+        "p": "quality control",
+        "s": 5
+      },
+      {
+        "p": "find products",
+        "s": 4
+      },
+      {
+        "p": "import products",
+        "s": 4
+      },
+      {
+        "p": "sourcing agent",
+        "s": 5
+      }
+    ],
+    "entityKeywords": [
+      "sourcing",
+      "supplier"
+    ],
+    "answers": [
+      "🌐 Product Sourcing — full pipeline from idea to FBA shelf.\n\nProcess:\n1. Winning product research (demand, competition, margins)\n2. Supplier identification & verification\n3. Sample ordering & quality review\n4. Price negotiation & MOQ planning\n5. Quality control inspection at factory\n6. Freight forwarding & customs\n7. FBA prep, labeling & delivery\n\nWe have established relationships with vetted suppliers across multiple categories.\n\nWhat product category are you looking to source?"
+    ],
+    "suggestions": [
+      "Product launch strategy",
+      "FBA management",
+      "Pricing",
+      "Free audit"
+    ]
+  },
+  {
+    "id": "launch",
+    "topic": "sourcing",
+    "keywords": [
+      {
+        "w": "launch",
+        "s": 5
+      },
+      {
+        "w": "launching",
+        "s": 4
+      },
+      {
+        "w": "new",
+        "s": 2
+      },
+      {
+        "w": "product",
+        "s": 2
+      },
+      {
+        "w": "private",
+        "s": 2
+      },
+      {
+        "w": "label",
+        "s": 2
+      },
+      {
+        "w": "timeline",
+        "s": 2
+      },
+      {
+        "w": "strategy",
+        "s": 3
+      },
+      {
+        "w": "starting",
+        "s": 2
+      }
+    ],
+    "phrases": [
+      {
+        "p": "product launch",
+        "s": 6
+      },
+      {
+        "p": "launch strategy",
+        "s": 6
+      },
+      {
+        "p": "new product",
+        "s": 5
+      },
+      {
+        "p": "launching on amazon",
+        "s": 6
+      },
+      {
+        "p": "private label launch",
+        "s": 5
+      },
+      {
+        "p": "how long to launch",
+        "s": 5
+      },
+      {
+        "p": "launch timeline",
+        "s": 4
+      },
+      {
+        "p": "start selling",
+        "s": 4
+      }
+    ],
+    "entityKeywords": [
+      "launch",
+      "private label"
+    ],
+    "answers": [
+      "🚀 EcomXprt Product Launch — 6 stages to ranking.\n\n1. Market Validation: Keyword research + demand + competitor mapping\n2. Listing Creation: Title, bullets, description, backend optimized pre-launch\n3. Creative Assets: Photography, 3D renders, A+ Content\n4. FBA Preparation: Shipment plan, labeling, IPI\n5. PPC Launch: SP/SB/SD campaigns with launch budgets\n6. Tri-Ranking Activation: PPC velocity + external traffic + organic SEO\n\n⏱️ Average: Top 10 within 4–6 weeks.\n\nStarting from scratch or relaunching an existing product?"
+    ],
+    "suggestions": [
+      "Tri-Ranking explained",
+      "Product sourcing",
+      "Photography",
+      "How long does it take?"
+    ]
+  },
+  {
+    "id": "photography",
+    "topic": "content",
+    "keywords": [
+      {
+        "w": "photo",
+        "s": 4
+      },
+      {
+        "w": "photography",
+        "s": 5
+      },
+      {
+        "w": "image",
+        "s": 3
+      },
+      {
+        "w": "images",
+        "s": 3
+      },
+      {
+        "w": "picture",
+        "s": 3
+      },
+      {
+        "w": "3d",
+        "s": 5
+      },
+      {
+        "w": "render",
+        "s": 4
+      },
+      {
+        "w": "renders",
+        "s": 4
+      },
+      {
+        "w": "lifestyle",
+        "s": 4
+      },
+      {
+        "w": "model",
+        "s": 3
+      },
+      {
+        "w": "studio",
+        "s": 3
+      },
+      {
+        "w": "infographic",
+        "s": 4
+      }
+    ],
+    "phrases": [
+      {
+        "p": "product photography",
+        "s": 6
+      },
+      {
+        "p": "product images",
+        "s": 5
+      },
+      {
+        "p": "3d renders",
+        "s": 6
+      },
+      {
+        "p": "lifestyle photos",
+        "s": 5
+      },
+      {
+        "p": "white background",
+        "s": 4
+      },
+      {
+        "p": "amazon photos",
+        "s": 5
+      },
+      {
+        "p": "main image",
+        "s": 4
+      },
+      {
+        "p": "hero image",
+        "s": 4
+      },
+      {
+        "p": "photo shoot",
+        "s": 5
+      }
+    ],
+    "entityKeywords": [
+      "photography",
+      "3d",
+      "images"
+    ],
+    "answers": [
+      "📸 Product Photography & 3D — studio-quality imagery that sells.\n\nPackage includes:\n✓ 7 professionally edited final images\n✓ White background main image (Amazon compliant)\n✓ Lifestyle photography with models\n✓ Infographic overlays (dimensions, benefits, callouts)\n✓ Photorealistic 3D renders\n✓ Full image rights transferred to you\n\nWhy this matters:\nYour main image drives CTR. Better images = more clicks = more sales, even before PPC.\n\nHandled in-house by our creative team."
+    ],
+    "suggestions": [
+      "A+ Content design",
+      "Product videography",
+      "Package design",
+      "Get a quote"
+    ]
+  },
+  {
+    "id": "video",
+    "topic": "content",
+    "keywords": [
+      {
+        "w": "video",
+        "s": 5
+      },
+      {
+        "w": "videography",
+        "s": 5
+      },
+      {
+        "w": "film",
+        "s": 3
+      },
+      {
+        "w": "footage",
+        "s": 3
+      },
+      {
+        "w": "voiceover",
+        "s": 3
+      },
+      {
+        "w": "animation",
+        "s": 2
+      },
+      {
+        "w": "reel",
+        "s": 2
+      },
+      {
+        "w": "demo",
+        "s": 3
+      },
+      {
+        "w": "clip",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "product video",
+        "s": 6
+      },
+      {
+        "p": "product videography",
+        "s": 6
+      },
+      {
+        "p": "amazon video",
+        "s": 6
+      },
+      {
+        "p": "video production",
+        "s": 5
+      },
+      {
+        "p": "listing video",
+        "s": 5
+      },
+      {
+        "p": "brand video",
+        "s": 4
+      },
+      {
+        "p": "lifestyle video",
+        "s": 4
+      },
+      {
+        "p": "demo video",
+        "s": 4
+      }
+    ],
+    "entityKeywords": [
+      "video",
+      "videography"
+    ],
+    "answers": [
+      "🎬 Product Videography — Amazon premium video that converts.\n\nProduction package:\n✓ Script writing & storyboard\n✓ Professional models & studio\n✓ Cinematic lighting & camera\n✓ Motion graphics & animations\n✓ Professional voiceover\n✓ Amazon-optimized export specs\n\nVideo types:\n• Lifestyle demo (product in use)\n• Unboxing / explainer\n• Brand story (Brand Store)\n• A+ video modules\n\nAmazon gives priority placement to listings with video — one of the highest-ROI investments."
+    ],
+    "suggestions": [
+      "Photography package",
+      "A+ Content",
+      "Get a quote",
+      "Brand Store"
+    ]
+  },
+  {
+    "id": "package",
+    "topic": "content",
+    "keywords": [
+      {
+        "w": "package",
+        "s": 4
+      },
+      {
+        "w": "packaging",
+        "s": 5
+      },
+      {
+        "w": "box",
+        "s": 3
+      },
+      {
+        "w": "label",
+        "s": 4
+      },
+      {
+        "w": "insert",
+        "s": 3
+      },
+      {
+        "w": "print",
+        "s": 3
+      },
+      {
+        "w": "branding",
+        "s": 3
+      },
+      {
+        "w": "unboxing",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "package design",
+        "s": 6
+      },
+      {
+        "p": "packaging design",
+        "s": 6
+      },
+      {
+        "p": "product packaging",
+        "s": 5
+      },
+      {
+        "p": "box design",
+        "s": 5
+      },
+      {
+        "p": "label design",
+        "s": 5
+      },
+      {
+        "p": "insert design",
+        "s": 4
+      },
+      {
+        "p": "fba packaging",
+        "s": 5
+      }
+    ],
+    "entityKeywords": [
+      "packaging",
+      "label"
+    ],
+    "answers": [
+      "📦 Package Designing — FBA-ready packaging that builds brand equity.\n\nDeliverables:\n✓ Custom original design (no templates)\n✓ 2 rounds of free revisions\n✓ Full copyright transferred to you\n✓ Print-ready AI/PDF files\n✓ Amazon-compliant specs\n\nWe design:\n• Product boxes & outer packaging\n• Insert cards (QR codes, warranty)\n• Poly bag print\n• Bundle packaging\n• Labels (product + shipping)\n\nDesigned by Hammas Khalid — 200+ Amazon packaging projects.\n\nStrong packaging → better unboxing → more positive reviews."
+    ],
+    "suggestions": [
+      "Photography",
+      "A+ Content",
+      "Get a quote",
+      "Brand building"
+    ]
+  },
+  {
+    "id": "brand",
+    "topic": "content",
+    "keywords": [
+      {
+        "w": "brand",
+        "s": 4
+      },
+      {
+        "w": "branding",
+        "s": 4
+      },
+      {
+        "w": "registry",
+        "s": 3
+      },
+      {
+        "w": "storefront",
+        "s": 3
+      },
+      {
+        "w": "store",
+        "s": 3
+      },
+      {
+        "w": "identity",
+        "s": 3
+      },
+      {
+        "w": "trademark",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "brand building",
+        "s": 5
+      },
+      {
+        "p": "brand registry",
+        "s": 6
+      },
+      {
+        "p": "brand store",
+        "s": 6
+      },
+      {
+        "p": "amazon storefront",
+        "s": 5
+      },
+      {
+        "p": "build a brand",
+        "s": 5
+      },
+      {
+        "p": "brand identity",
+        "s": 4
+      },
+      {
+        "p": "private label brand",
+        "s": 4
+      }
+    ],
+    "entityKeywords": [
+      "brand",
+      "brand store",
+      "registry"
+    ],
+    "answers": [
+      "🏆 Brand Building on Amazon — beyond just selling a product.\n\nWe establish:\n✓ Brand Registry enrollment (protection + A+ access)\n✓ Brand Store (multi-page storefront)\n✓ A+ Content (converts browsers into buyers)\n✓ Sponsored Brand campaigns (logo + headline ads)\n✓ Package & label design\n✓ Brand voice in all copy\n\nBrand Registry gives you:\n→ A+ Content & Brand Store access\n→ Sponsored Brands & Video ads\n→ Report counterfeiters & IP violations\n→ Transparency program\n\nAre you already Brand Registered?"
+    ],
+    "suggestions": [
+      "A+ Content",
+      "Brand Store",
+      "Photography",
+      "Listing optimization"
+    ]
+  },
+  {
+    "id": "walmart",
+    "topic": "marketplaces",
+    "keywords": [
+      {
+        "w": "walmart",
+        "s": 6
+      },
+      {
+        "w": "wfs",
+        "s": 5
+      }
+    ],
+    "phrases": [
+      {
+        "p": "walmart marketplace",
+        "s": 6
+      },
+      {
+        "p": "walmart wfs",
+        "s": 6
+      },
+      {
+        "p": "sell on walmart",
+        "s": 6
+      },
+      {
+        "p": "walmart account",
+        "s": 5
+      },
+      {
+        "p": "walmart management",
+        "s": 5
+      },
+      {
+        "p": "walmart advertising",
+        "s": 5
+      },
+      {
+        "p": "walmart ppc",
+        "s": 5
+      }
+    ],
+    "entityKeywords": [
+      "walmart",
+      "wfs"
+    ],
+    "answers": [
+      "🏪 Walmart Marketplace — managed by Raja Souban, our multi-marketplace specialist.\n\nWe manage:\n✓ Walmart WFS (like Amazon FBA)\n✓ Listing creation & Walmart SEO\n✓ Walmart Connect advertising\n✓ Account health monitoring\n✓ Catalogue management\n\nWhy Walmart:\n• Less competition than Amazon (still growing fast)\n• WFS listings get priority placement\n• Buyer-intent traffic\n\nMany Amazon clients add $10K–$30K/month from Walmart with minimal extra effort.\n\nAlready on Walmart, or looking to launch there?"
+    ],
+    "suggestions": [
+      "eBay management",
+      "TikTok Shop",
+      "Multi-marketplace overview",
+      "Contact team"
+    ]
+  },
+  {
+    "id": "shopify",
+    "topic": "marketplaces",
+    "keywords": [
+      {
+        "w": "shopify",
+        "s": 6
+      },
+      {
+        "w": "dtc",
+        "s": 3
+      },
+      {
+        "w": "direct",
+        "s": 2
+      },
+      {
+        "w": "webstore",
+        "s": 3
+      },
+      {
+        "w": "ecommerce",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "shopify store",
+        "s": 6
+      },
+      {
+        "p": "shopify management",
+        "s": 6
+      },
+      {
+        "p": "dtc store",
+        "s": 4
+      },
+      {
+        "p": "direct to consumer",
+        "s": 4
+      },
+      {
+        "p": "online store",
+        "s": 3
+      },
+      {
+        "p": "ecommerce website",
+        "s": 3
+      }
+    ],
+    "entityKeywords": [
+      "shopify"
+    ],
+    "answers": [
+      "🛍️ Shopify Management — DTC alongside Amazon.\n\nFor Shopify we handle:\n✓ Store setup & theme customization\n✓ Product page optimization\n✓ Shopify SEO\n✓ Email marketing integration\n✓ Amazon ↔ Shopify inventory sync\n✓ Meta & Google ads for Shopify traffic\n\nWhy many Amazon sellers add Shopify:\n→ Own your customer data\n→ Build email lists & loyalty programs\n→ Sell bundles/subscriptions\n→ External traffic boosts Amazon ranking via Tri-Ranking\n\nContact us to discuss your Shopify goals."
+    ],
+    "suggestions": [
+      "Amazon + Shopify strategy",
+      "eBay management",
+      "Contact team",
+      "Free audit"
+    ]
+  },
+  {
+    "id": "ebay",
+    "topic": "marketplaces",
+    "keywords": [
+      {
+        "w": "ebay",
+        "s": 6
+      },
+      {
+        "w": "powerseller",
+        "s": 4
+      },
+      {
+        "w": "auction",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "sell on ebay",
+        "s": 6
+      },
+      {
+        "p": "ebay account",
+        "s": 5
+      },
+      {
+        "p": "ebay management",
+        "s": 5
+      },
+      {
+        "p": "ebay seller",
+        "s": 5
+      },
+      {
+        "p": "ebay listing",
+        "s": 4
+      }
+    ],
+    "entityKeywords": [
+      "ebay"
+    ],
+    "answers": [
+      "🛒 eBay Management — Raja Souban, our multi-marketplace specialist.\n\nWhat we do:\n✓ eBay Powerseller account management\n✓ Listing creation & Cassini SEO\n✓ Promotions & markdown manager\n✓ Feedback management\n✓ Multi-channel inventory sync\n\neBay drives strong volume for:\n• Refurbished & used items\n• Automotive parts\n• Collectibles & vintage\n• B2B bulk orders\n\nAmazon + eBay + Walmart together maximizes your total marketplace revenue."
+    ],
+    "suggestions": [
+      "Walmart management",
+      "TikTok Shop",
+      "Multi-marketplace",
+      "Contact team"
+    ]
+  },
+  {
+    "id": "tiktok_shop",
+    "topic": "marketplaces",
+    "keywords": [
+      {
+        "w": "tiktok",
+        "s": 6
+      },
+      {
+        "w": "tiktokshop",
+        "s": 6
+      },
+      {
+        "w": "social",
+        "s": 2
+      },
+      {
+        "w": "viral",
+        "s": 2
+      },
+      {
+        "w": "creator",
+        "s": 3
+      },
+      {
+        "w": "affiliate",
+        "s": 3
+      },
+      {
+        "w": "ugc",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "tiktok shop",
+        "s": 7
+      },
+      {
+        "p": "sell on tiktok",
+        "s": 6
+      },
+      {
+        "p": "tiktok commerce",
+        "s": 5
+      },
+      {
+        "p": "tiktok affiliate",
+        "s": 5
+      },
+      {
+        "p": "tiktok creator",
+        "s": 4
+      },
+      {
+        "p": "tiktok marketing",
+        "s": 4
+      }
+    ],
+    "entityKeywords": [
+      "tiktok"
+    ],
+    "answers": [
+      "📱 TikTok Shop — fastest-growing eCommerce channel.\n\nWe manage:\n✓ TikTok Shop account setup & listing\n✓ TikTok Ads (In-Feed, TopView, Shopping)\n✓ Creator & affiliate program management\n✓ UGC content strategy\n✓ LIVE shopping sessions\n\nWhy it matters:\n• Built-in viral potential\n• Discovery-led shopping (not search-led)\n• Affiliate creators promote on commission\n• Great for visual, impulse-buy products\n\nMany Amazon brands add 20–40% revenue from TikTok Shop.\n\nManaged by Raja Souban."
+    ],
+    "suggestions": [
+      "Walmart management",
+      "eBay",
+      "Amazon overview",
+      "Contact team"
+    ]
+  },
+  {
+    "id": "marketplace",
+    "topic": "marketplaces",
+    "keywords": [
+      {
+        "w": "marketplace",
+        "s": 4
+      },
+      {
+        "w": "channel",
+        "s": 3
+      },
+      {
+        "w": "platform",
+        "s": 3
+      },
+      {
+        "w": "multi",
+        "s": 3
+      },
+      {
+        "w": "multichannel",
+        "s": 4
+      },
+      {
+        "w": "omni",
+        "s": 3
+      },
+      {
+        "w": "channels",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "all marketplaces",
+        "s": 5
+      },
+      {
+        "p": "which marketplace",
+        "s": 5
+      },
+      {
+        "p": "marketplace management",
+        "s": 5
+      },
+      {
+        "p": "multi channel",
+        "s": 5
+      },
+      {
+        "p": "multichannel selling",
+        "s": 5
+      },
+      {
+        "p": "expand marketplace",
+        "s": 5
+      }
+    ],
+    "entityKeywords": [],
+    "answers": [
+      "🌍 Marketplaces EcomXprt manages — all under one roof.\n\n📦 Amazon — primary expertise\n• US, UK, EU, CA, UAE, AUS\n• Full management + PPC\n\n🏪 Walmart — Raja Souban\n• WFS, listings, Walmart Connect\n\n🛒 eBay — Raja Souban\n• Powerseller accounts, Cassini SEO\n\n📱 TikTok Shop — Raja Souban\n• Setup, ads, creator affiliates\n\n🛍️ Shopify — DTC management\n• Store, SEO, email, paid ads\n\nEach channel has a dedicated specialist."
+    ],
+    "suggestions": [
+      "Amazon overview",
+      "Walmart",
+      "TikTok Shop",
+      "Contact team"
+    ]
+  },
+  {
+    "id": "competitor",
+    "topic": "operations",
+    "keywords": [
+      {
+        "w": "competitor",
+        "s": 5
+      },
+      {
+        "w": "competition",
+        "s": 4
+      },
+      {
+        "w": "compete",
+        "s": 3
+      },
+      {
+        "w": "beat",
+        "s": 3
+      },
+      {
+        "w": "rival",
+        "s": 3
+      },
+      {
+        "w": "research",
+        "s": 2
+      },
+      {
+        "w": "spy",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "competitor analysis",
+        "s": 6
+      },
+      {
+        "p": "beat competitors",
+        "s": 5
+      },
+      {
+        "p": "market research",
+        "s": 4
+      },
+      {
+        "p": "competitive advantage",
+        "s": 5
+      },
+      {
+        "p": "competitor keywords",
+        "s": 5
+      },
+      {
+        "p": "competitor review",
+        "s": 4
+      }
+    ],
+    "entityKeywords": [],
+    "answers": [
+      "🔍 Competitor Analysis — we do this before every engagement.\n\nWhat we analyze:\n✓ Top 5–10 competitors in your category\n✓ Their keyword strategy (organic rank)\n✓ Their PPC targeting (sponsored terms)\n✓ Listing quality, pricing, review count\n✓ A+ Content benchmarking\n✓ BSR trends & sales velocity estimates\n\nTools: Helium 10, Jungle Scout, Brand Analytics + proprietary analysis.\n\nThis drives your listing optimization, PPC strategy, and launch plan.\n\nA free audit includes a full competitor analysis."
+    ],
+    "suggestions": [
+      "Keyword ranking",
+      "Listing optimization",
+      "Free audit",
+      "PPC management"
+    ]
+  },
+  {
+    "id": "reviews",
+    "topic": "operations",
+    "keywords": [
+      {
+        "w": "review",
+        "s": 5
+      },
+      {
+        "w": "reviews",
+        "s": 5
+      },
+      {
+        "w": "rating",
+        "s": 4
+      },
+      {
+        "w": "feedback",
+        "s": 4
+      },
+      {
+        "w": "stars",
+        "s": 3
+      },
+      {
+        "w": "vine",
+        "s": 4
+      },
+      {
+        "w": "testimonial",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "get reviews",
+        "s": 6
+      },
+      {
+        "p": "more reviews",
+        "s": 5
+      },
+      {
+        "p": "review management",
+        "s": 6
+      },
+      {
+        "p": "vine program",
+        "s": 5
+      },
+      {
+        "p": "amazon vine",
+        "s": 5
+      },
+      {
+        "p": "remove review",
+        "s": 4
+      },
+      {
+        "p": "bad reviews",
+        "s": 4
+      },
+      {
+        "p": "review strategy",
+        "s": 5
+      }
+    ],
+    "entityKeywords": [],
+    "answers": [
+      "⭐ Review Strategy — only Amazon-compliant methods.\n\nWhat we use:\n✓ Vine Program enrollment (free units → verified reviews)\n✓ \"Request a Review\" automation via Seller Central\n✓ Follow-up sequences via approved tools\n✓ Insert cards with QR → feedback page\n\nWhat we never do:\nNo fake reviews, no incentivized reviews outside Vine — Amazon bans accounts for this.\n\nFor negative reviews:\n→ Flag policy-violating reviews for removal\n→ Professional brand responses\n→ Root-cause fixes to stop new negatives\n\nYour star rating directly affects CVR and PPC quality score."
+    ],
+    "suggestions": [
+      "Account health",
+      "Listing optimization",
+      "Free audit",
+      "Account management"
+    ]
+  },
+  {
+    "id": "results",
+    "topic": "results",
+    "keywords": [
+      {
+        "w": "result",
+        "s": 4
+      },
+      {
+        "w": "results",
+        "s": 4
+      },
+      {
+        "w": "proof",
+        "s": 4
+      },
+      {
+        "w": "case",
+        "s": 3
+      },
+      {
+        "w": "study",
+        "s": 3
+      },
+      {
+        "w": "success",
+        "s": 3
+      },
+      {
+        "w": "growth",
+        "s": 3
+      },
+      {
+        "w": "numbers",
+        "s": 3
+      },
+      {
+        "w": "stats",
+        "s": 3
+      },
+      {
+        "w": "portfolio",
+        "s": 3
+      },
+      {
+        "w": "evidence",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "case study",
+        "s": 5
+      },
+      {
+        "p": "your results",
+        "s": 5
+      },
+      {
+        "p": "past results",
+        "s": 5
+      },
+      {
+        "p": "success stories",
+        "s": 5
+      },
+      {
+        "p": "show me results",
+        "s": 5
+      },
+      {
+        "p": "real results",
+        "s": 5
+      },
+      {
+        "p": "prove it",
+        "s": 4
+      }
+    ],
+    "entityKeywords": [],
+    "answers": [
+      "📊 EcomXprt Results — real numbers, real brands.\n\n📈 +537% revenue growth (90 days)\n💰 $84,920/month average revenue per account\n🎯 7.2× average ROAS\n📉 ACoS: 28% → 11%\n✅ 250+ brands scaled\n🌍 12+ countries\n\nClient highlights:\n• Home & Garden (USA): $18K → $84K/month in 3 months\n• Beauty (UK): Page 8 → Position #2 in 6 weeks\n• Sports (Canada): $22K → $120K/month, expanded to Walmart\n• Skincare (UAE): +118% CVR after A+ Content"
+    ],
+    "suggestions": [
+      "Client reviews",
+      "How did you do it?",
+      "Free audit",
+      "Get started"
+    ]
+  },
+  {
+    "id": "testimonials",
+    "topic": "results",
+    "keywords": [
+      {
+        "w": "testimonial",
+        "s": 5
+      },
+      {
+        "w": "client",
+        "s": 3
+      },
+      {
+        "w": "feedback",
+        "s": 3
+      },
+      {
+        "w": "opinion",
+        "s": 3
+      },
+      {
+        "w": "recommend",
+        "s": 3
+      },
+      {
+        "w": "said",
+        "s": 2
+      }
+    ],
+    "phrases": [
+      {
+        "p": "client reviews",
+        "s": 5
+      },
+      {
+        "p": "what clients say",
+        "s": 5
+      },
+      {
+        "p": "customer feedback",
+        "s": 4
+      },
+      {
+        "p": "what people say",
+        "s": 4
+      },
+      {
+        "p": "do you have reviews",
+        "s": 5
+      }
+    ],
+    "entityKeywords": [],
+    "answers": [
+      "⭐ What EcomXprt clients say:\n\n\"Absolutely fantastic. Instrumental in propelling my business to unprecedented levels.\"\n— Leonardo Naranjo, Amazon Seller (USA)\n\n\"ROAS jumped from 2.1× to 7.8×, revenue from $18K to $84K in 3 months.\"\n— James Whitfield, Home & Garden (USA)\n\n\"Main keyword from page 8 to position #2 in 6 weeks. ACoS from 31% to 12.4%.\"\n— Aisha Rahman, Beauty (UK)\n\n\"$22K to $120K/month while launching on Walmart. Transparent and deeply skilled.\"\n— Michael Torres, Sports (Canada)"
+    ],
+    "suggestions": [
+      "Case study numbers",
+      "Our results",
+      "Free audit",
+      "Get started"
+    ]
+  },
+  {
+    "id": "pricing",
+    "topic": "pricing",
+    "keywords": [
+      {
+        "w": "price",
+        "s": 4
+      },
+      {
+        "w": "pricing",
+        "s": 5
+      },
+      {
+        "w": "cost",
+        "s": 4
+      },
+      {
+        "w": "fee",
+        "s": 4
+      },
+      {
+        "w": "plan",
+        "s": 3
+      },
+      {
+        "w": "package",
+        "s": 3
+      },
+      {
+        "w": "monthly",
+        "s": 3
+      },
+      {
+        "w": "retainer",
+        "s": 3
+      },
+      {
+        "w": "budget",
+        "s": 3
+      },
+      {
+        "w": "invest",
+        "s": 2
+      },
+      {
+        "w": "affordable",
+        "s": 3
+      },
+      {
+        "w": "expensive",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "how much",
+        "s": 5
+      },
+      {
+        "p": "what does it cost",
+        "s": 6
+      },
+      {
+        "p": "your pricing",
+        "s": 5
+      },
+      {
+        "p": "pricing plans",
+        "s": 5
+      },
+      {
+        "p": "monthly fee",
+        "s": 5
+      },
+      {
+        "p": "how much do you charge",
+        "s": 6
+      },
+      {
+        "p": "service cost",
+        "s": 5
+      },
+      {
+        "p": "price plans",
+        "s": 5
+      }
+    ],
+    "entityKeywords": [],
+    "answers": [
+      "💰 EcomXprt Pricing — 4 custom-quoted tiers, no lock-in contracts.\n\n🔹 Tier 1 — Starter\nAccount setup, basic listing, keyword research + free strategy call\n→ New sellers just launching\n\n🔸 Tier 2 — Basic\nAccount management + PPC + listing + A+ Content + reporting\n→ Established sellers wanting professional management\n\n⭐ Tier 3 — Advanced (Most Popular)\nTier 2 + sourcing, launch strategy, Tri-Ranking, photography, dedicated AM\n→ Brands scaling to 6–7 figures\n\n💎 Tier 4 — Premium\nEnterprise — multi-marketplace, videography, packaging, custom SLA\n→ 7-figure brands & agencies\n\nAll plans start with a free audit. Custom quotes only.\n📞 +92 323 577 7900"
+    ],
+    "suggestions": [
+      "Book a free audit first",
+      "What is included?",
+      "No contracts?",
+      "Contact for quote"
+    ]
+  },
+  {
+    "id": "audit",
+    "topic": "cta",
+    "keywords": [
+      {
+        "w": "audit",
+        "s": 5
+      },
+      {
+        "w": "free",
+        "s": 3
+      },
+      {
+        "w": "check",
+        "s": 2
+      },
+      {
+        "w": "review",
+        "s": 2
+      },
+      {
+        "w": "analyze",
+        "s": 3
+      },
+      {
+        "w": "analysis",
+        "s": 3
+      },
+      {
+        "w": "consultation",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "free audit",
+        "s": 7
+      },
+      {
+        "p": "account audit",
+        "s": 6
+      },
+      {
+        "p": "free consultation",
+        "s": 6
+      },
+      {
+        "p": "audit my account",
+        "s": 6
+      },
+      {
+        "p": "check my account",
+        "s": 5
+      },
+      {
+        "p": "book an audit",
+        "s": 6
+      },
+      {
+        "p": "schedule a call",
+        "s": 5
+      },
+      {
+        "p": "free call",
+        "s": 4
+      }
+    ],
+    "entityKeywords": [
+      "audit"
+    ],
+    "answers": [
+      "✅ Free Amazon Account Audit — no pitch, no pressure, pure insight.\n\nWe check:\n✓ Account health & compliance status\n✓ Listing quality vs top competitors\n✓ PPC efficiency — your actual ACoS & ROAS\n✓ Keyword ranking gaps\n✓ Revenue opportunity estimate\n✓ Top 3 quick wins we would implement immediately\n\nDelivered in 48 hours. Zero obligation.\n\nBook your audit:\n📞 +92 323 577 7900\n💬 WhatsApp: wa.me/923235777900\n📧 admin@ecomxprt.com",
+      "The free audit is the smartest first step. 🎯\n\nMost sellers are losing revenue in 3–5 specific places they are not aware of.\nOur audit finds those places for your account specifically.\n\nThen you decide:\n→ Fix it yourself using our roadmap\n→ Have us fix it for you\n\nZero risk. Zero cost.\n\n📞 +92 323 577 7900\n💬 WhatsApp: wa.me/923235777900"
+    ],
+    "suggestions": [
+      "Book now via WhatsApp",
+      "What happens after audit?",
+      "Pricing",
+      "Contact team"
+    ]
+  },
+  {
+    "id": "contact",
+    "topic": "cta",
+    "keywords": [
+      {
+        "w": "contact",
+        "s": 5
+      },
+      {
+        "w": "reach",
+        "s": 3
+      },
+      {
+        "w": "email",
+        "s": 4
+      },
+      {
+        "w": "phone",
+        "s": 4
+      },
+      {
+        "w": "whatsapp",
+        "s": 5
+      },
+      {
+        "w": "call",
+        "s": 3
+      },
+      {
+        "w": "message",
+        "s": 3
+      },
+      {
+        "w": "address",
+        "s": 3
+      },
+      {
+        "w": "location",
+        "s": 3
+      },
+      {
+        "w": "office",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "contact you",
+        "s": 5
+      },
+      {
+        "p": "get in touch",
+        "s": 5
+      },
+      {
+        "p": "how to contact",
+        "s": 6
+      },
+      {
+        "p": "your email",
+        "s": 5
+      },
+      {
+        "p": "your phone",
+        "s": 5
+      },
+      {
+        "p": "your whatsapp",
+        "s": 5
+      },
+      {
+        "p": "your address",
+        "s": 5
+      },
+      {
+        "p": "where are you located",
+        "s": 4
+      }
+    ],
+    "entityKeywords": [],
+    "answers": [
+      "📬 Get in touch with EcomXprt:\n\n📧 Email: admin@ecomxprt.com\n📞 Phone: +92 323 577 7900\n📞 Phone: +92 306 010 3079\n💬 WhatsApp: wa.me/923235777900\n\n📍 Office #302 Royal Tower B Block\nMain Boulevard, Citi Housing\nJhelum, Punjab, Pakistan\n\n⏰ Response times:\n• WhatsApp: within 1 hour\n• Email: within 24 hours\n• Urgent? Call directly."
+    ],
+    "suggestions": [
+      "Book a free audit",
+      "WhatsApp us now",
+      "What to prepare?"
+    ]
+  },
+  {
+    "id": "start",
+    "topic": "cta",
+    "keywords": [
+      {
+        "w": "start",
+        "s": 3
+      },
+      {
+        "w": "begin",
+        "s": 3
+      },
+      {
+        "w": "onboard",
+        "s": 4
+      },
+      {
+        "w": "signup",
+        "s": 3
+      },
+      {
+        "w": "process",
+        "s": 2
+      },
+      {
+        "w": "steps",
+        "s": 2
+      },
+      {
+        "w": "join",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "how to start",
+        "s": 5
+      },
+      {
+        "p": "get started",
+        "s": 5
+      },
+      {
+        "p": "how do i begin",
+        "s": 5
+      },
+      {
+        "p": "onboarding process",
+        "s": 5
+      },
+      {
+        "p": "first steps",
+        "s": 4
+      },
+      {
+        "p": "how to work with you",
+        "s": 5
+      },
+      {
+        "p": "working together",
+        "s": 4
+      }
+    ],
+    "entityKeywords": [],
+    "answers": [
+      "🚀 Getting Started — 4 simple steps.\n\nStep 1 — Free Audit (48 hrs)\nWe analyze your account: gaps, opportunities, quick wins.\n\nStep 2 — Strategy Call (30 min)\nWe walk through the findings and build your custom growth roadmap.\n\nStep 3 — Proposal & Agreement\nCustom-quoted plan. No lock-in. Month-to-month.\n\nStep 4 — Onboarding (1 week)\nWe get access, complete setup, and start executing immediately.\n\nFirst results: measurable improvement within 30–45 days.\n\n📞 +92 323 577 7900\n💬 WhatsApp: wa.me/923235777900"
+    ],
+    "suggestions": [
+      "Book a free audit",
+      "Pricing",
+      "What is included?",
+      "Contact team"
+    ]
+  },
+  {
+    "id": "services",
+    "topic": "services",
+    "keywords": [
+      {
+        "w": "service",
+        "s": 4
+      },
+      {
+        "w": "services",
+        "s": 5
+      },
+      {
+        "w": "offer",
+        "s": 3
+      },
+      {
+        "w": "provide",
+        "s": 3
+      },
+      {
+        "w": "specialize",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "what do you offer",
+        "s": 5
+      },
+      {
+        "p": "your services",
+        "s": 5
+      },
+      {
+        "p": "list of services",
+        "s": 5
+      },
+      {
+        "p": "all services",
+        "s": 5
+      },
+      {
+        "p": "what services",
+        "s": 5
+      },
+      {
+        "p": "what you do",
+        "s": 4
+      }
+    ],
+    "entityKeywords": [],
+    "answers": [
+      "🛠️ EcomXprt — 9 Core Services.\n\nAdvertising & Growth:\n1. Amazon PPC (avg 7.2× ROAS)\n2. Keyword Ranking — Tri-Ranking Solution\n\nContent & Optimization:\n3. Listing Optimization (+118% avg CVR)\n4. A+ Content & EBC Design\n\nOperations:\n5. Amazon Account Management\n6. Product Sourcing & Launch\n\nCreative:\n7. Product Photography & 3D\n8. Product Videography\n9. Package Designing\n\nAlso: Walmart, eBay, TikTok Shop, Shopify, Brand Registry, Review Management.\n\nWhich area interests you most?"
+    ],
+    "suggestions": [
+      "Amazon PPC",
+      "Listing optimization",
+      "A+ Content",
+      "Product sourcing"
+    ]
+  },
+  {
+    "id": "amazon",
+    "topic": "services",
+    "keywords": [
+      {
+        "w": "amazon",
+        "s": 3
+      },
+      {
+        "w": "amz",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "sell on amazon",
+        "s": 5
+      },
+      {
+        "p": "amazon seller",
+        "s": 5
+      },
+      {
+        "p": "amazon business",
+        "s": 5
+      },
+      {
+        "p": "growing on amazon",
+        "s": 5
+      },
+      {
+        "p": "amazon expert",
+        "s": 4
+      },
+      {
+        "p": "amazon management",
+        "s": 5
+      }
+    ],
+    "entityKeywords": [],
+    "answers": [
+      "📦 Amazon — EcomXprt's core expertise since 2009.\n\nMarketplaces we manage:\n🇺🇸 US 🇬🇧 UK 🇪🇺 EU 🇦🇪 UAE 🇨🇦 CA 🇦🇺 AUS\n\nFull Amazon ecosystem:\n• Seller Central & Vendor Central management\n• PPC (SP, SB, SD)\n• Listing & A+ Content\n• FBA operations\n• Brand Store & Brand Registry\n• Product launches & ranking\n\n250+ brands managed. 15 years of experience.\n\nWhat part of Amazon are you focused on?"
+    ],
+    "suggestions": [
+      "Amazon PPC",
+      "Listing optimization",
+      "Account management",
+      "Free audit"
+    ]
+  },
+  {
+    "id": "team",
+    "topic": "company",
+    "keywords": [
+      {
+        "w": "team",
+        "s": 5
+      },
+      {
+        "w": "staff",
+        "s": 4
+      },
+      {
+        "w": "people",
+        "s": 3
+      },
+      {
+        "w": "expert",
+        "s": 3
+      },
+      {
+        "w": "specialist",
+        "s": 3
+      },
+      {
+        "w": "members",
+        "s": 3
+      },
+      {
+        "w": "employees",
+        "s": 3
+      },
+      {
+        "w": "meet",
+        "s": 2
+      }
+    ],
+    "phrases": [
+      {
+        "p": "your team",
+        "s": 5
+      },
+      {
+        "p": "meet the team",
+        "s": 5
+      },
+      {
+        "p": "who works",
+        "s": 4
+      },
+      {
+        "p": "team members",
+        "s": 5
+      },
+      {
+        "p": "the experts",
+        "s": 4
+      },
+      {
+        "p": "about your team",
+        "s": 5
+      }
+    ],
+    "entityKeywords": [],
+    "answers": [
+      "👥 EcomXprt Team — 15 specialists, each a domain expert.\n\n👤 Saad Aqeel — CEO & Founder (15+ yrs Amazon)\n👤 Ammar Jamil — Co-Founder (US & EU account ops)\n👤 Tayyab Sethi — Sales Manager (client onboarding)\n👤 Hammas Khalid — Graphics Designer (200+ listings)\n👤 Asad Naeem — eCommerce Specialist (Seller Central)\n👤 Raja Souban — Walmart/eBay/TikTok Specialist\n👤 Moin — Amazon PPC Specialist\n\nPlus 8 more experts supporting operations.\n\nAsk about any team member for details!"
+    ],
+    "suggestions": [
+      "Meet CEO Saad",
+      "Hammas the designer",
+      "Raja multi-marketplace",
+      "Contact team"
+    ]
+  },
+  {
+    "id": "ppc",
+    "topic": "advertising",
+    "keywords": [
+      {
+        "w": "ppc",
+        "s": 5
+      },
+      {
+        "w": "advertising",
+        "s": 4
+      },
+      {
+        "w": "sponsored",
+        "s": 4
+      },
+      {
+        "w": "ads",
+        "s": 3
+      },
+      {
+        "w": "campaign",
+        "s": 3
+      },
+      {
+        "w": "bid",
+        "s": 3
+      },
+      {
+        "w": "bidding",
+        "s": 3
+      },
+      {
+        "w": "cpc",
+        "s": 4
+      },
+      {
+        "w": "clicks",
+        "s": 2
+      },
+      {
+        "w": "impressions",
+        "s": 2
+      },
+      {
+        "w": "spend",
+        "s": 2
+      },
+      {
+        "w": "budget",
+        "s": 2
+      },
+      {
+        "w": "targeting",
+        "s": 3
+      },
+      {
+        "w": "negative",
+        "s": 2
+      },
+      {
+        "w": "daypart",
+        "s": 3
+      },
+      {
+        "w": "tacos",
+        "s": 4
+      },
+      {
+        "w": "taco",
+        "s": 3
+      }
+    ],
+    "phrases": [
+      {
+        "p": "pay per click",
+        "s": 6
+      },
+      {
+        "p": "amazon ads",
+        "s": 6
+      },
+      {
+        "p": "sponsored products",
+        "s": 5
+      },
+      {
+        "p": "sponsored brands",
+        "s": 5
+      },
+      {
+        "p": "sponsored display",
+        "s": 5
+      },
+      {
+        "p": "amazon advertising",
+        "s": 6
+      },
+      {
+        "p": "ad campaigns",
+        "s": 4
+      },
+      {
+        "p": "running ads",
+        "s": 4
+      },
+      {
+        "p": "manage my ads",
+        "s": 5
+      },
+      {
+        "p": "ad management",
+        "s": 5
+      },
+      {
+        "p": "ppc management",
+        "s": 6
+      },
+      {
+        "p": "lower my spend",
+        "s": 4
+      },
+      {
+        "p": "reduce ad spend",
+        "s": 4
+      }
+    ],
+    "entityKeywords": [
+      "ppc",
+      "advertising",
+      "sponsored"
+    ],
+    "answers": [
+      "📈 Amazon PPC — EcomXprt's highest-impact service.\n\nOur results:\n• Average ROAS: 7.2× (some clients reach 9.4×)\n• ACoS: reduced from 28% → 11%\n• Campaigns: SP, SB, SD across all match types\n\nWhat we do every week:\n✓ Keyword harvesting from search term reports\n✓ Negative keyword sculpting\n✓ Bid adjustments by placement, time & device\n✓ New campaign builds as account scales\n\nWant to know how we would approach your account specifically? Book a free audit.",
+      "Our PPC management is built on data, not guesswork. 💰\n\nCampaign types we run:\n• Sponsored Products (exact, phrase, broad, auto)\n• Sponsored Brands (headline + video)\n• Sponsored Display (remarketing + competitor targeting)\n\nKey results:\n→ ACoS from 28% to under 12%\n→ ROAS consistently above 6×\n→ Weekly bid optimization, monthly restructures\n\nBook a free PPC audit — we show you exactly where your budget is wasted."
+    ],
+    "suggestions": [
+      "What is ACoS?",
+      "What ROAS should I target?",
+      "How are campaigns structured?",
+      "Free audit"
+    ]
+  }
+]

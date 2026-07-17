@@ -1,0 +1,58 @@
+{
+  "tiers": [
+    {
+      "tier": "Tier 01",
+      "name": "Starter",
+      "description": "Core services package + free consultation. Ideal for new sellers.",
+      "features": [
+        "Amazon Account Setup",
+        "Basic Listing Optimization",
+        "Keyword Research",
+        "Free Strategy Consultation"
+      ],
+      "mostPopular": false
+    },
+    {
+      "tier": "Tier 02",
+      "name": "Basic",
+      "description": "Essential eCommerce growth services for established sellers.",
+      "features": [
+        "Account Management",
+        "PPC Setup & Management",
+        "Full Listing Optimization",
+        "A+ Content Design",
+        "Monthly Reporting"
+      ],
+      "mostPopular": false
+    },
+    {
+      "tier": "Tier 03",
+      "name": "Advanced",
+      "description": "Full management + product launching for brands serious about scaling.",
+      "features": [
+        "Everything in Basic",
+        "Product Research & Sourcing",
+        "Product Launch Strategy",
+        "Tri-Ranking Solution",
+        "Photography & 3D",
+        "Dedicated Account Manager"
+      ],
+      "mostPopular": true
+    },
+    {
+      "tier": "Tier 04",
+      "name": "Premium",
+      "description": "Enterprise custom solution for 7-figure brands and agencies.",
+      "features": [
+        "Everything in Advanced",
+        "Multi-marketplace Management",
+        "Product Videography",
+        "Package Designing",
+        "Brand Store Creation",
+        "Custom SLA & Reporting"
+      ],
+      "mostPopular": false
+    }
+  ],
+  "note": "All plans are custom-quoted after a free account audit. No lock-in contracts — month-to-month."
+}

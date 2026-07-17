@@ -1,0 +1,98 @@
+[
+  {
+    "term": "AI",
+    "aliases": [
+      "artificial intelligence"
+    ],
+    "definition": "Artificial Intelligence is technology that enables computers to perform tasks that normally need human intelligence — understanding language, recognizing patterns, and making predictions or decisions from data."
+  },
+  {
+    "term": "React",
+    "aliases": [
+      "reactjs",
+      "react.js"
+    ],
+    "definition": "React is a JavaScript library (built by Meta) for building user interfaces out of reusable components. It's one of the most widely used front-end tools for web and mobile apps."
+  },
+  {
+    "term": "Laravel",
+    "aliases": [],
+    "definition": "Laravel is a PHP web framework used to build server-side web applications quickly, with built-in tools for routing, databases, authentication, and more."
+  },
+  {
+    "term": "SEO",
+    "aliases": [
+      "search engine optimization"
+    ],
+    "definition": "SEO (Search Engine Optimization) is the practice of improving a website's or listing's visibility in search results — through keywords, content quality, technical structure, and backlinks — so it ranks higher and gets more organic traffic."
+  },
+  {
+    "term": "UI/UX",
+    "aliases": [
+      "ui",
+      "ux",
+      "user interface",
+      "user experience"
+    ],
+    "definition": "UI (User Interface) is how a product looks and is laid out; UX (User Experience) is how it feels to use — how intuitive, efficient, and enjoyable the journey is. Good UI/UX design increases engagement and conversions."
+  },
+  {
+    "term": "API",
+    "aliases": [
+      "application programming interface"
+    ],
+    "definition": "An API (Application Programming Interface) is a defined way for two pieces of software to talk to each other — for example, letting a website pull live data from another service."
+  },
+  {
+    "term": "Cloud Computing",
+    "aliases": [
+      "cloud"
+    ],
+    "definition": "Cloud Computing means running software, storage, and computing power over the internet (on servers like AWS, Google Cloud, or Azure) instead of on a local machine — so it scales on demand and is accessible from anywhere."
+  },
+  {
+    "term": "E-Commerce",
+    "aliases": [
+      "ecommerce",
+      "e commerce"
+    ],
+    "definition": "E-Commerce is the buying and selling of goods or services online — through marketplaces like Amazon, or a brand's own store like Shopify."
+  },
+  {
+    "term": "Website Development",
+    "aliases": [
+      "web development",
+      "web dev"
+    ],
+    "definition": "Website Development is the process of building a website — covering front-end (what visitors see and interact with) and back-end (servers, databases, business logic) work."
+  },
+  {
+    "term": "Branding",
+    "aliases": [
+      "brand identity"
+    ],
+    "definition": "Branding is shaping how a business is perceived — its name, logo, visual identity, tone of voice, and the promise it makes to customers — so it's recognizable and trusted."
+  },
+  {
+    "term": "Digital Marketing",
+    "aliases": [
+      "online marketing"
+    ],
+    "definition": "Digital Marketing is promoting a product or business through online channels — SEO, paid ads (PPC), social media, email, and content — to reach and convert customers."
+  },
+  {
+    "term": "PPC",
+    "aliases": [
+      "pay per click"
+    ],
+    "definition": "PPC (Pay-Per-Click) is a form of online advertising where you pay only when someone clicks your ad — common on Google, Amazon, and social platforms."
+  },
+  {
+    "term": "FBA",
+    "aliases": [
+      "fulfillment by amazon",
+      "fulfilled by amazon"
+    ],
+    "definition": "FBA (Fulfillment by Amazon) is Amazon's program where sellers ship inventory to Amazon's warehouses, and Amazon handles storage, packing, shipping, and customer service for those orders."
+  }
+]

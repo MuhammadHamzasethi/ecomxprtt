@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Block access to any potential config or backup files
+Disallow: /*.json$
+Disallow: /*.txt$
+Allow: /robots.txt
+Allow: /sitemap.xml
+
+# Crawl delay for polite crawling
+Crawl-delay: 10
+
+# Sitemap location
+Sitemap: https://ecomxprt.com/sitemap.xml

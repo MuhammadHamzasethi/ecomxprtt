@@ -1,0 +1,68 @@
+{
+  "name": "EcomXprt",
+  "legalAlternateName": "EcomXprt Agency",
+  "tagline": "Experts With Vision",
+  "founded": 2009,
+  "yearsExperience": "15+",
+  "brandsScaled": "250+",
+  "employeeCount": 15,
+  "ceo": {
+    "name": "Saad Aqeel",
+    "title": "CEO & Founder"
+  },
+  "coFounder": {
+    "name": "Ammar Jamil",
+    "title": "Co-Founder"
+  },
+  "mission": "To give every brand — large or small — access to enterprise-level Amazon account management and advertising expertise.",
+  "whatWeDo": "EcomXprt is a full-service Amazon eCommerce growth agency that manages Seller Central operations, PPC advertising, listing optimization, creative content, product sourcing, and multi-marketplace expansion (Walmart, eBay, TikTok Shop, Shopify) for 250+ brands worldwide.",
+  "industriesServed": [
+    "Home & Garden",
+    "Beauty & Wellness",
+    "Sports & Outdoors",
+    "Premium Skincare",
+    "Electronics",
+    "and general consumer product brands selling on Amazon"
+  ],
+  "marketplaces": [
+    "Amazon (US, UK, EU, CA, UAE, AUS)",
+    "Walmart (WFS)",
+    "eBay",
+    "TikTok Shop",
+    "Shopify"
+  ],
+  "contact": {
+    "email": "admin@ecomxprt.com",
+    "phones": [
+      "+92 323 577 7900",
+      "+92 306 010 3079"
+    ],
+    "whatsapp": "https://wa.me/923235777900",
+    "address": "Office #302 Royal Tower B Block, Main Boulevard, Citi Housing, Jhelum, Punjab 49600, Pakistan",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/ecomxprt",
+      "x": "https://x.com/ecomxprt",
+      "instagram": "https://www.instagram.com/ecomxprt",
+      "youtube": "https://www.youtube.com/@ecomxprt"
+    }
+  },
+  "businessHours": {
+    "days": "Monday–Friday",
+    "opens": "09:00",
+    "closes": "18:00",
+    "timezone": "PKT (Pakistan)"
+  },
+  "responseTimes": {
+    "whatsapp": "within 1 hour",
+    "email": "within 24 hours",
+    "urgent": "call directly"
+  },
+  "stats": {
+    "brandsScaled": "250+",
+    "yearsExperience": "15+",
+    "avgROAS": "7.2×",
+    "avgACoSReduction": "28% → 11%",
+    "avgCVRImprovement": "+118%",
+    "supportHours": "4000+"
+  }
+}

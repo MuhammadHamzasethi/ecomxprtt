@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "category": "PPC",
+      "label": "Campaign Performance",
+      "image": "assets/img/portfolio/portfolio-1.png",
+      "metric": "+340% ROAS"
+    },
+    {
+      "category": "Sales",
+      "label": "Revenue Scaling",
+      "image": "assets/img/portfolio/portfolio-2.png",
+      "metric": "+218% Revenue"
+    },
+    {
+      "category": "PPC",
+      "label": "Ad Optimization",
+      "image": "assets/img/portfolio/portfolio-3.png",
+      "metric": "ACoS 12%"
+    },
+    {
+      "category": "Photography",
+      "label": "Product Photography",
+      "image": "assets/img/portfolio/114.png",
+      "metric": "Premium Imagery"
+    },
+    {
+      "category": "Sales",
+      "label": "Revenue Growth",
+      "image": "assets/img/portfolio/portfolio-5.png",
+      "metric": "+537% Growth"
+    },
+    {
+      "category": "Photography",
+      "label": "3D Product Renders",
+      "image": "assets/img/portfolio/117.png",
+      "metric": "Studio Quality"
+    },
+    {
+      "category": "PPC",
+      "label": "Full PPC Managed",
+      "image": "assets/img/portfolio/portfolio-6.png",
+      "metric": "7.2× ROAS"
+    },
+    {
+      "category": "Photography",
+      "label": "Lifestyle Imagery",
+      "image": "assets/img/portfolio/116.png",
+      "metric": "A+ Content"
+    }
+  ],
+  "highlights": {
+    "revenueGrowth": "+537% revenue growth (90 days)",
+    "avgMonthlyRevenue": "$84,920/month average revenue per account",
+    "avgROAS": "7.2×",
+    "acosRange": "28% → 11%",
+    "brandsScaled": "250+",
+    "countriesServed": "12+"
+  }
+}

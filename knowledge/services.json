@@ -1,0 +1,137 @@
+[
+  {
+    "id": "account-management",
+    "number": "01",
+    "icon": "⚙️",
+    "name": "Amazon Account Management",
+    "brief": "Full Seller Central management — catalogues, FBA, compliance, account health.",
+    "highlight": "Full Seller Central",
+    "detail": "Complete end-to-end Amazon account operations. Catalogue management, FBA shipment plans, account health monitoring, inventory optimisation.",
+    "features": [
+      "Catalogue & variation management",
+      "FBA shipment planning & IPI",
+      "Account health monitoring",
+      "Weekly performance reporting"
+    ]
+  },
+  {
+    "id": "ppc-management",
+    "number": "02",
+    "icon": "📈",
+    "name": "Amazon PPC Management",
+    "brief": "Full-funnel sponsored ads from keyword discovery to bid optimization. Consistently achieving 6–8× ROAS.",
+    "highlight": "Avg. 7.2× ROAS",
+    "detail": "Data-first PPC across Sponsored Products, Brands, and Display. Granular keyword harvesting, negative sculpting, and dynamic bid strategies.",
+    "features": [
+      "7.2× average ROAS achieved",
+      "ACoS reduced from 28% → 11%",
+      "Sponsored Brand + Video",
+      "Weekly optimization & reporting"
+    ]
+  },
+  {
+    "id": "listing-optimization",
+    "number": "03",
+    "icon": "✍️",
+    "name": "Listing Optimization",
+    "brief": "Keyword-rich titles, 5 conversion-focused bullets, HTML description, backend terms.",
+    "highlight": "+118% CVR Average",
+    "detail": "Your listing is your #1 salesperson. Deep keyword research with conversion copywriting that ranks organically and converts at scale.",
+    "features": [
+      "SEO-optimized title (200 chars)",
+      "5 conversion-focused bullets",
+      "HTML product description",
+      "Backend search term optimization"
+    ]
+  },
+  {
+    "id": "aplus-content",
+    "number": "04",
+    "icon": "🎨",
+    "name": "A+ Content & EBC",
+    "brief": "Visually rich brand storytelling with enhanced images, lifestyle graphics, and infographics.",
+    "highlight": "Premium Brand Store",
+    "detail": "A+ Content replaces standard descriptions with rich visual modules. Our designers craft complete EBC that increases conversion rates.",
+    "features": [
+      "Brand story module design",
+      "Product comparison charts",
+      "Lifestyle infographic imagery",
+      "Brand Store creation"
+    ]
+  },
+  {
+    "id": "keyword-ranking",
+    "number": "05",
+    "icon": "🔑",
+    "name": "Keyword Ranking",
+    "brief": "Tri-Ranking Solution — PPC + organic strategies + external traffic to reach top positions on page 1.",
+    "highlight": "Top 3 Rankings",
+    "detail": "Our proprietary Tri-Ranking combines sponsored ads, organic SEO tactics, and external traffic to rank your products on page 1.",
+    "features": [
+      "PPC velocity campaigns",
+      "Organic ranking strategy",
+      "External traffic funnels",
+      "Rank tracking & reporting"
+    ]
+  },
+  {
+    "id": "product-sourcing",
+    "number": "06",
+    "icon": "📦",
+    "name": "Product Sourcing",
+    "brief": "Global sourcing from vetted suppliers. Profit margins, demand, competition analysis — logistics end-to-end.",
+    "highlight": "Global Network",
+    "detail": "Winning product research, vetted global suppliers, quality control, and full import logistics pipeline to your FBA warehouse.",
+    "features": [
+      "Winning product research",
+      "Verified supplier network",
+      "Quality control & inspection",
+      "End-to-end logistics"
+    ]
+  },
+  {
+    "id": "photography-3d",
+    "number": "07",
+    "icon": "📸",
+    "name": "Product Photography & 3D",
+    "brief": "7 professional images: main, white BG, infographics, lifestyle, model shots. Full image rights included.",
+    "highlight": "Studio Quality",
+    "detail": "Amazon-compliant hero shots, lifestyle imagery, infographic overlays, and photorealistic 3D renders for maximum conversion.",
+    "features": [
+      "7 edited final images",
+      "White background main image",
+      "Lifestyle & model photography",
+      "3D renders & infographics"
+    ]
+  },
+  {
+    "id": "videography",
+    "number": "08",
+    "icon": "🎬",
+    "name": "Product Videography",
+    "brief": "Professional team, real models, advanced editing, voiceover, script writing. Amazon premium video.",
+    "highlight": "Amazon Premium",
+    "detail": "High-production Amazon-ready product videos using professional models, cinematic lighting, motion graphics, and voiceover.",
+    "features": [
+      "Script writing & storyboard",
+      "Professional models & studio",
+      "Motion graphics & editing",
+      "Professional voiceover"
+    ]
+  },
+  {
+    "id": "package-designing",
+    "number": "09",
+    "icon": "🖊️",
+    "name": "Package Designing",
+    "brief": "Custom FBA packaging with original design, AI files, copyright, two free revisions.",
+    "highlight": "Brand Identity",
+    "detail": "FBA-ready packaging that builds brand equity, drives unboxing experience, and differentiates you on the shelf.",
+    "features": [
+      "Custom original design",
+      "2 free revisions included",
+      "Full copyright transfer",
+      "Print-ready AI/PDF files"
+    ]
+  }
+]
